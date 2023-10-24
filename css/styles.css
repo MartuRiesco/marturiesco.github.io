@@ -243,6 +243,10 @@ ul {
     border-bottom: solid 0.35rem var(--clr-secundario);
     width: 70%;
 }
+.sobre__content-tools-figma {
+    border-bottom: solid 0.35rem var(--clr-secundario);
+    width: 70%;
+}
 
 .sobre__content-tools p {
     margin-bottom: 1rem;
@@ -322,7 +326,7 @@ ul {
     padding: 1rem;
 }
 .img-art{
-    width: auto;
+    width: fit-content;
     height: 250px;
 }
 .portfolio-img a {
