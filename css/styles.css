@@ -139,7 +139,7 @@ ul {
 
 .banner__content-logo i {
     max-width: 100%;
-    font-size: 20rem;
+    font-size: 15rem;
     color: var(--clr-secundario);
     align-self: start;
 }
@@ -218,7 +218,7 @@ ul {
 
 .sobre__content-tools-css {
     border-bottom: solid 0.35rem var(--clr-secundario);
-    width: 90%;
+    width: 100%;
 }
 
 .sobre__content-tools-js {
@@ -321,7 +321,10 @@ ul {
     text-align: center;
     padding: 1rem;
 }
-
+.img-art{
+    width: auto;
+    height: 250px;
+}
 .portfolio-img a {
     background-color: var(--clr-secundario);
     padding: 1rem;
