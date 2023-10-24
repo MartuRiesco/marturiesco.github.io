@@ -11,9 +11,9 @@
     --ff-title: 'Montserrat', sans-serif;
     --ff-text: 'Varela Round', sans-serif;
     --clr-primario: rgb(33, 36, 41);
-    --clr-secundario: rgb(107, 29, 235);
+    --clr-secundario: rgb(18, 179, 18);
     --clr-terciario: rgb(40, 45, 54);
-    --clr-span: rgb(138, 102, 242);
+    --clr-span: rgb(62, 181, 78);
     --clr-white: rgb(225, 225, 225);
 }
 
@@ -218,22 +218,30 @@ ul {
 
 .sobre__content-tools-css {
     border-bottom: solid 0.35rem var(--clr-secundario);
-    width: 80%;
+    width: 90%;
 }
 
 .sobre__content-tools-js {
     border-bottom: solid 0.35rem var(--clr-secundario);
-    width: 40%;
+    width: 90%;
 }
 
 .sobre__content-tools-wp {
+    border-bottom: solid 0.35rem var(--clr-secundario);
+    width: 80%;
+}
+.sobre__content-tools-react {
     border-bottom: solid 0.35rem var(--clr-secundario);
     width: 90%;
 }
 
 .sobre__content-tools-adobe {
     border-bottom: solid 0.35rem var(--clr-secundario);
-    width: 60%;
+    width: 40%;
+}
+.sobre__content-tools-boots {
+    border-bottom: solid 0.35rem var(--clr-secundario);
+    width: 70%;
 }
 
 .sobre__content-tools p {
